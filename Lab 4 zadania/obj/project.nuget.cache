@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRv61fiOsu/p9Xw0omo5AhJdxl2Vb5KLWVYSdibMf4IenQVdoVpSUreAZoe0tE9o6pO+eVHYU2Es+LH0HOlqTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nskal\\Desktop\\ConsoleApp2\\ConsoleApp2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nskal\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

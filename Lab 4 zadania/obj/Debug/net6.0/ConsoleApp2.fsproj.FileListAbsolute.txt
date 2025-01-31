@@ -1,0 +1,4 @@
+C:\Users\nskal\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.fsproj.AssemblyReference.cache
+C:\Users\nskal\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\nskal\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.fs
+C:\Users\nskal\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.fsproj.CoreCompileInputs.cache
