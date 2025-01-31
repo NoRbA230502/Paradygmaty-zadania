@@ -1,0 +1,29 @@
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\Lab 5 zadania.exe
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\Lab 5 zadania.deps.json
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\Lab 5 zadania.runtimeconfig.json
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\Lab 5 zadania.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\Lab 5 zadania.pdb
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.fsproj.AssemblyReference.cache
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.AssemblyInfoInputs.cache
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.AssemblyInfo.fs
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.fsproj.CoreCompileInputs.cache
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.fsproj.CopyComplete
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\refint\Lab 5 zadania.dll
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.pdb
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\Lab 5 zadania.genruntimeconfig.cache
+C:\Users\nskal\Desktop\Lab 5 zadania\obj\Debug\net7.0\ref\Lab 5 zadania.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ux5bF5gKap1sYZidAeH+z+HYOQ2O6g0csZ/PWMEI5Md7XcIIe1p650qBwh7NfkR2oQObc0ydq5YKcVI0s+64Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nskal\\Desktop\\Lab 5 zadania\\Lab 5 zadania.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nskal\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
